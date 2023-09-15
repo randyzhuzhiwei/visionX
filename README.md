@@ -1,4 +1,4 @@
-# Object Detection
+# Vision X - Object Detection
 
 Live object detection example following [this](https://www.tensorflow.org/lite/examples/object_detection/overview) example.
 
